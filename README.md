@@ -1,14 +1,14 @@
 <h2 align="center">Who is Glener?</h2>
 
-- 👋 Hi, I’m Glener Pizzolato
-- 🌱 I have a Bachelor's Degree in Computer Science from the 'Universidade Federal do Pampa, campus Alegrete-RS' and I started my Master's degree in 2024.
-- 📫 How to reach me: glenerpizzolato@gmail.com
+Back-End Software Engineer focused on AI-driven systems, microservices, scalable API development (REST/gRPC), Google Cloud Platform (GCP), and automation pipelines. Skills include systems design, multi-agent orchestration, and AI-powered chatbots for business automation. I aim to build high-performance, maintainable software with strong DevOps practices and observability.
 
-### Skills
+Languages: TypeScript, JavaScript (Node.js, Bun, Fastify, NestJS, Express), Go, Python, PHP, Java. Familiar with React, C#, C/C++, Rust.
+Cloud & DevOps: Google Cloud (GKE, Cloud Run, Pub/Sub, Datastore, Cloud Tasks, Scheduler), Docker, Kubernetes, Terraform, Grafana, CI/CD, ConfigCat (Feature Flags), Git (Git Flow, Trunk-Based, One Flow).
+Databases: PostgreSQL, MySQL, MongoDB, Firestore.
+Architecture & Patterns: Domain-Driven Design (DDD), Clean Architecture, SOLID, Clean Code.
+Testing: Unit, Integration, and E2E (Vitest, Jest, Supertest, Mockito).
 
-🔭 Solid experience with Typescript, payment gateways, chatbots and various projects, with experience in systems design and software architecture.
-
-💬 Other skills include Docker, Google Cloud (Cloud Tasks, Pub/Sub, Schedulers, GKE, Cloud Run, Datastore), IaC with Terraform, SQL and NoSQL databases, CI/CD automation, Git (Git Flow, Trunk Based, One Flow), observability with Grafana, multi-level testing (unit, integration, E2E), Scrum and Kanban, Domain-Driven Design principles, Clean Architecture and SOLID. I have also had extensive contact with Java, PHP and React, in addition to having some projects with Go and Python.
+-   📫 How to reach me: glenerpizzolato@gmail.com
 
 ### Tools
 
