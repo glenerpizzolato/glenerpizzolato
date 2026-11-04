@@ -34,7 +34,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/glener10?tab=repositories" title="Show Repositories" target="_blank">
+  <a href="https://github.com/glenerpizzolato?tab=repositories" title="Show Repositories" target="_blank">
     <img src="https://img.shields.io/badge/Show_Repositories-🔎_Search-282828?style=for-the-badge" alt="Show Repositories" />
   </a>
 </div>
@@ -44,8 +44,8 @@
 ### 📊 Github Stats
 
 <div align="center">
-  <a href="https://github.com/glener10" target="_blank">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glener10&layout=compact&langs_count=7&theme=dark" alt="Top Languages" />
+  <a href="https://github.com/glenerpizzolato" target="_blank">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glenerpizzolato&layout=compact&langs_count=7&theme=dark" alt="Top Languages" />
   </a>
 </div>
 
